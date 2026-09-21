@@ -74,10 +74,6 @@ Conjunto de projetos desenvolvidos durante o curso de Sistemas de Informação, 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+🚀 Projetos e contribuições em constante evolução.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoBuenoCruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBuenoCruz&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+📌 Confira meus repositórios para acompanhar meu desenvolvimento e os projetos que estou construindo.
