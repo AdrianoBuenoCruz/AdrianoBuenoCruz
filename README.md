@@ -29,3 +29,41 @@ Atualmente estou aprimorando minhas habilidades em programação, desenvolviment
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+
+---
+
+## 🚀 Projetos em destaque
+
+### 📚 Sistema Bibliotecário
+Sistema desenvolvido em Java para gerenciamento de uma biblioteca.
+
+**Tecnologias:** Java ☕
+
+
+### 🌱 Projeto Web/Mobile
+Projeto desenvolvido durante minha formação acadêmica, explorando desenvolvimento web e mobile.
+
+**Tecnologias:** JavaScript • HTML • CSS
+
+
+### 💻 Projetos acadêmicos
+Conjunto de projetos desenvolvidos durante o curso de Sistemas de Informação, colocando em prática conceitos de programação e desenvolvimento de sistemas.
+
+---
+
+## 🎓 Formação
+
+**Universidade Estadual de Goiás — UEG**
+
+🎓 Sistemas de Informação
+
+---
+
+## 📫 Vamos conversar?
+
+💻 GitHub: [@AdrianoBuenoCruz](https://github.com/AdrianoBuenoCruz)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
