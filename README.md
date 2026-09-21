@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá, eu sou Adriano Bueno!
 
-<!--
-**AdrianoBuenoCruz/AdrianoBuenoCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na UEG  
+💻 Desenvolvedor em formação  
+🚀 Transformando ideias em projetos através da tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+
+Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia e desenvolvimento de sistemas.
+
+Atualmente estou aprimorando minhas habilidades em programação, desenvolvimento web e criação de soluções digitais.
+
+🎯 Meu objetivo é evoluir constantemente, transformar ideias em projetos reais e construir uma carreira na área de tecnologia.
