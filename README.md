@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Adriano Bueno!
+⁸# 👋 Olá, eu sou Adriano Bueno!
 
 🎓 Estudante de Sistemas de Informação na UEG  
 💻 Desenvolvedor em formação  
@@ -67,5 +67,17 @@ Conjunto de projetos desenvolvidos durante o curso de Sistemas de Informação, 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianoBuenoCruz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBuenoCruz&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
