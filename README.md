@@ -20,22 +20,33 @@ Atualmente estou aprimorando minhas habilidades em programação, desenvolviment
 ## 🛠️ Tecnologias
 
 
+---
 
+## 🚀 Projetos em desenvolvimento
+
+### 🌾 Gestão Agro
+🔨 **Status:** Em desenvolvimento
+
+Sistema voltado para gestão e organização de atividades do setor agropecuário.
 
 ---
 
-## 🚀 Projetos em destaque
+### ☀️ Gestão Solar
+🔨 **Status:** Em desenvolvimento
 
-### 📚 Sistema Bibliotecário
-Sistema desenvolvido em Java para gerenciamento de uma biblioteca.
+Sistema voltado para gestão e acompanhamento de projetos relacionados à energia solar.
 
-**Tecnologias:** Java ☕
+---
+
+### 💧 Irrigação
+🔨 **Status:** Em desenvolvimento
+
+Projeto voltado para gerenciamento e controle de sistemas de irrigação.
+
+---
 
 
-### 🌱 Projeto Web/Mobile
-Projeto desenvolvido durante minha formação acadêmica, explorando desenvolvimento web e mobile.
-
-**Tecnologias:** JavaScript • HTML • CSS
+** JavaScript • HTML • CSS
 
 
 ### 💻 Projetos acadêmicos
