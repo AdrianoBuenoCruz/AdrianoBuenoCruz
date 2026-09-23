@@ -22,6 +22,14 @@ O Gestor Agro reúne indicadores da propriedade em um painel e oferece módulos 
   </a>
 </p>
 
+### Atualização recente do Gestor Agro
+
+Esta seção acompanha automaticamente o último commit público do projeto, com atualização semanal.
+
+<!-- projetos:auto:start -->
+- 23/09/2026 · [Gestor Agro](https://github.com/AdrianoBuenoCruz/gestao-agro/commit/17d33383a5e32db376ec8c62ed9db5451f5be912) — docs: detalha instalação e acesso inicial do Gestor Agro
+<!-- projetos:auto:end -->
+
 ### Outros projetos
 
 | Projeto | Descrição | Tecnologias |
