@@ -10,11 +10,11 @@ Meu trabalho de conclusão de curso é o **Gestor Agro**, um sistema para acompa
 
 ### 🌾 Projeto em destaque: Gestor Agro
 
-O Gestor Agro reúne indicadores da propriedade em um painel e oferece módulos para registrar as atividades agrícolas. A aplicação tem uma versão funcional; a documentação acadêmica está em revisão.
+O Gestor Agro reúne indicadores da propriedade em um painel e oferece módulos para acompanhar safras, produção, finanças, equipamentos e equipe. É um protótipo acadêmico; a documentação do TCC está em revisão.
 
 **Tecnologias:** PHP, PDO, MySQL, JavaScript, HTML, CSS e Bootstrap.
 
-[**Explorar o código e a documentação →**](https://github.com/AdrianoBuenoCruz/gestao-agro)
+[**Conhecer o projeto e ver como executar →**](https://github.com/AdrianoBuenoCruz/gestao-agro#executar-localmente)
 
 <p align="center">
   <a href="https://github.com/AdrianoBuenoCruz/gestao-agro">
