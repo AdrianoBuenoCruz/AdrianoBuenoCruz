@@ -17,7 +17,6 @@ Gosto de entender o problema de quem vai usar um sistema e criar ferramentas que
 | 🌾 **Gestor Agro** | Sistema web de gestão agrícola com produção, finanças, equipamentos, operações e colaboradores. | [Conhecer o projeto](https://github.com/AdrianoBuenoCruz/gestao-agro) |
 | 🥬 **Horta Comunitária** | Projeto acadêmico para web e dispositivos móveis. | [Ver repositório](https://github.com/AdrianoBuenoCruz/-Projeto-WEB-MOBILE-FIST) |
 | 📚 **Biblioteca em Java** | Projeto educacional de sistema bibliotecário. | [Ver repositório](https://github.com/AdrianoBuenoCruz/Projeto-Java-Biblioteca-Judiciario-Educacional-) |
-| 🌐 **Programação Web** | Atividades e estudos de desenvolvimento web. | [Ver repositório](https://github.com/AdrianoBuenoCruz/programacao_web) |
 
 
 
