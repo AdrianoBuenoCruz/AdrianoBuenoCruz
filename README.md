@@ -1,90 +1,36 @@
-⁸# 👋 Olá, eu sou Adriano Bueno!
+# Olá, eu sou Adriano Bueno! 👋
 
-🎓 Estudante de Sistemas de Informação na UEG  
-💻 Desenvolvedor em formação  
-🚀 Transformando ideias em projetos através da tecnologia
+🎓 Estudante de **Sistemas de Informação na Universidade Estadual de Goiás (UEG)**
 
----
+💻 Desenvolvo sistemas web para transformar necessidades reais em soluções práticas.
 
-## 🧑‍💻 Sobre mim
+🌾 Atualmente, meu principal projeto é o **Gestor Agro**, tema do meu TCC.
 
-Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia e desenvolvimento de sistemas.
+## Sobre mim
 
-Atualmente estou aprimorando minhas habilidades em programação, desenvolvimento web e criação de soluções digitais.
+Gosto de entender o problema de quem vai usar um sistema e criar ferramentas que facilitem o trabalho no dia a dia. Tenho desenvolvido projetos ligados à gestão agrícola, à irrigação e a aplicações web.
 
-🎯 Meu objetivo é evoluir constantemente, transformar ideias em projetos reais e construir uma carreira na área de tecnologia.
+## Projetos em destaque
 
+| Projeto | O que é | Repositório |
+| --- | --- | --- |
+| 🌾 **Gestor Agro** | Sistema web de gestão agrícola com produção, finanças, equipamentos, operações e colaboradores. | [Conhecer o projeto](https://github.com/AdrianoBuenoCruz/gestao-agro) |
+| 🥬 **Horta Comunitária** | Projeto acadêmico para web e dispositivos móveis. | [Ver repositório](https://github.com/AdrianoBuenoCruz/-Projeto-WEB-MOBILE-FIST) |
+| 📚 **Biblioteca em Java** | Projeto educacional de sistema bibliotecário. | [Ver repositório](https://github.com/AdrianoBuenoCruz/Projeto-Java-Biblioteca-Judiciario-Educacional-) |
+| 🌐 **Programação Web** | Atividades e estudos de desenvolvimento web. | [Ver repositório](https://github.com/AdrianoBuenoCruz/programacao_web) |
 
----
+O **Gestor Agro** já possui uma versão funcional; estou revisando a documentação acadêmica para a apresentação do TCC. A página pública do projeto reúne a descrição e uma imagem do painel.
 
-## 🛠️ Tecnologias
+## Tecnologias que utilizo
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
----
+## Contato
 
-## 🚀 Projetos em desenvolvimento
-
-### 🌾 Gestão Agro
-🔨 **Status:** Em desenvolvimento
-
-Sistema voltado para gestão e organização de atividades do setor agropecuário.
-
----
-
-### ☀️ Gestão Solar
-🔨 **Status:** Em desenvolvimento
-
-Sistema voltado para gestão e acompanhamento de projetos relacionados à energia solar.
-
----
-
-### 💧 Irrigação
-🔨 **Status:** Em desenvolvimento
-
-Projeto voltado para gerenciamento e controle de sistemas de irrigação.
-
----
-
-
-** JavaScript • HTML • CSS
-
-
-### 💻 Projetos acadêmicos
-Conjunto de projetos desenvolvidos durante o curso de Sistemas de Informação, colocando em prática conceitos de programação e desenvolvimento de sistemas.
-
----
-
-## 🎓 Formação
-
-**Universidade Estadual de Goiás — UEG**
-
-🎓 Sistemas de Informação
-
----
-
-## 📫 Vamos conversar?
-
-💻 GitHub: [@AdrianoBuenoCruz](https://github.com/AdrianoBuenoCruz)
-
----
-
-⭐ Obrigado por visitar meu perfil!
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-🚀 Projetos e contribuições em constante evolução.
-
-📌 Confira meus repositórios para acompanhar meu desenvolvimento e os projetos que estou construindo.
+Quer conversar sobre tecnologia ou conhecer um projeto? [Fale comigo pelo GitHub](https://github.com/AdrianoBuenoCruz).
