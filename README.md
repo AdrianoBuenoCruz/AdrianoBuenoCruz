@@ -19,7 +19,7 @@ Gosto de entender o problema de quem vai usar um sistema e criar ferramentas que
 | 📚 **Biblioteca em Java** | Projeto educacional de sistema bibliotecário. | [Ver repositório](https://github.com/AdrianoBuenoCruz/Projeto-Java-Biblioteca-Judiciario-Educacional-) |
 | 🌐 **Programação Web** | Atividades e estudos de desenvolvimento web. | [Ver repositório](https://github.com/AdrianoBuenoCruz/programacao_web) |
 
-O **Gestor Agro** já possui uma versão funcional; estou revisando a documentação acadêmica para a apresentação do TCC. A página pública do projeto reúne a descrição e uma imagem do painel.
+
 
 ## Tecnologias que utilizo
 
