@@ -1,26 +1,35 @@
-# Olá, eu sou Adriano Bueno! 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="Adriano Bueno — desenvolvimento web e tecnologia para o campo" width="100%">
+</p>
 
-🎓 Estudante de **Sistemas de Informação na Universidade Estadual de Goiás (UEG)**
+## Olá, eu sou o Adriano 👋
 
-💻 Desenvolvo sistemas web para transformar necessidades reais em soluções práticas.
+Sou estudante de **Sistemas de Informação na Universidade Estadual de Goiás (UEG)** e desenvolvo sistemas web para organizar processos do dia a dia. Gosto de projetos que nascem de uma necessidade real e se tornam ferramentas úteis.
 
-🌾 Atualmente, meu principal projeto é o **Gestor Agro**, tema do meu TCC.
+Meu trabalho de conclusão de curso é o **Gestor Agro**, um sistema para acompanhar safras, produção, finanças, máquinas e equipe em uma propriedade rural.
 
-## Sobre mim
+### 🌾 Projeto em destaque: Gestor Agro
 
-Gosto de entender o problema de quem vai usar um sistema e criar ferramentas que facilitem o trabalho no dia a dia. Tenho desenvolvido projetos ligados à gestão agrícola, à irrigação e a aplicações web.
+O Gestor Agro reúne indicadores da propriedade em um painel e oferece módulos para registrar as atividades agrícolas. A aplicação tem uma versão funcional; a documentação acadêmica está em revisão.
 
-## Projetos em destaque
+**Tecnologias:** PHP, PDO, MySQL, JavaScript, HTML, CSS e Bootstrap.
 
-| Projeto | O que é | Repositório |
+[**Explorar o código e a documentação →**](https://github.com/AdrianoBuenoCruz/gestao-agro)
+
+<p align="center">
+  <a href="https://github.com/AdrianoBuenoCruz/gestao-agro">
+    <img src="https://raw.githubusercontent.com/AdrianoBuenoCruz/gestao-agro/main/PainelGeral.png" alt="Visão do painel do Gestor Agro" width="720">
+  </a>
+</p>
+
+### Outros projetos
+
+| Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| 🌾 **Gestor Agro** | Sistema web de gestão agrícola com produção, finanças, equipamentos, operações e colaboradores. | [Conhecer o projeto](https://github.com/AdrianoBuenoCruz/gestao-agro) |
-| 🥬 **Horta Comunitária** | Projeto acadêmico para web e dispositivos móveis. | [Ver repositório](https://github.com/AdrianoBuenoCruz/-Projeto-WEB-MOBILE-FIST) |
-| 📚 **Biblioteca em Java** | Projeto educacional de sistema bibliotecário. | [Ver repositório](https://github.com/AdrianoBuenoCruz/Projeto-Java-Biblioteca-Judiciario-Educacional-) |
+| [Horta Municipal](https://github.com/AdrianoBuenoCruz/-Projeto-WEB-MOBILE-FIST) | Projeto acadêmico para organizar canteiros, cultivos e colheitas, com interface PWA. | HTML, CSS, JavaScript |
+| [Biblioteca em Java](https://github.com/AdrianoBuenoCruz/Projeto-Java-Biblioteca-Judiciario-Educacional-) | Sistema bibliotecário desenvolvido como projeto educacional. | Java |
 
-
-
-## Tecnologias que utilizo
+### Tecnologias que utilizo
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -30,6 +39,6 @@ Gosto de entender o problema de quem vai usar um sistema e criar ferramentas que
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-## Contato
+---
 
-Quer conversar sobre tecnologia ou conhecer um projeto? [Fale comigo pelo GitHub](https://github.com/AdrianoBuenoCruz).
+<p align="center">Conheça os <a href="https://github.com/AdrianoBuenoCruz?tab=repositories">repositórios do meu perfil</a>.</p>
