@@ -31,7 +31,7 @@ def latest_commit(repo):
         commit["commit"]["committer"]["date"].replace("Z", "+00:00")
     )
     message = commit["commit"]["message"].splitlines()[0].strip()
-    message = re.sub(r"\\s+", " ", message)[:90]
+    message = re.sub(r"\s+", " ", message)[:90]
     return date, f"- {date:%d/%m/%Y} · [{dict(PROJECTS)[repo]}]({commit['html_url']}) — {escape(message)}"
 
 
