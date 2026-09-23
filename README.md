@@ -18,7 +18,7 @@ O Gestor Agro reúne indicadores da propriedade em um painel e oferece módulos 
 
 <p align="center">
   <a href="https://github.com/AdrianoBuenoCruz/gestao-agro">
-    <img src="https://raw.githubusercontent.com/AdrianoBuenoCruz/gestao-agro/main/PainelGeral.png" alt="Visão do painel do Gestor Agro" width="720">
+    <img src="https://raw.githubusercontent.com/AdrianoBuenoCruz/gestao-agro/main/PainelGeral.png" alt="Visão do painel do Gestor Agro" width="420">
   </a>
 </p>
 
