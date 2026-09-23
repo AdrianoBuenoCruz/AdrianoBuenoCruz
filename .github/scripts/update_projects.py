@@ -1,4 +1,4 @@
-"""Atualiza apenas a seção de projetos públicos do README do perfil."""
+"""Atualiza apenas a seção do Gestor Agro no README do perfil."""
 
 from datetime import datetime
 from html import escape
@@ -9,11 +9,7 @@ import re
 from urllib.request import Request, urlopen
 
 OWNER = "AdrianoBuenoCruz"
-PROJECTS = (
-    ("gestao-agro", "Gestor Agro"),
-    ("-Projeto-WEB-MOBILE-FIST", "Horta Municipal"),
-    ("Projeto-Java-Biblioteca-Judiciario-Educacional-", "Biblioteca em Java"),
-)
+PROJECTS = (("gestao-agro", "Gestor Agro"),)
 START = "<!-- projetos:auto:start -->"
 END = "<!-- projetos:auto:end -->"
 
@@ -35,7 +31,7 @@ def latest_commit(repo):
         commit["commit"]["committer"]["date"].replace("Z", "+00:00")
     )
     message = commit["commit"]["message"].splitlines()[0].strip()
-    message = re.sub(r"[[]\\]", "", message)[:90]
+    message = re.sub(r"\\s+", " ", message)[:90]
     return date, f"- {date:%d/%m/%Y} · [{dict(PROJECTS)[repo]}]({commit['html_url']}) — {escape(message)}"
 
 
