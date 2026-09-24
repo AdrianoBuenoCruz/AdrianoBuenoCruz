@@ -10,7 +10,7 @@ Meu trabalho de conclusão de curso é o **Gestor Agro**, um sistema para acompa
 
 ### 🌾 Projeto em destaque: Gestor Agro
 
-O Gestor Agro reúne indicadores da propriedade em um painel e oferece módulos para acompanhar safras, produção, finanças, equipamentos e equipe. É um protótipo acadêmico; a documentação do TCC está em revisão.
+O Gestor Agro reúne indicadores da propriedade em um painel e oferece módulos para acompanhar safras, produção, finanças, equipamentos e equipe. **A versão acadêmica do sistema está concluída; a documentação do TCC está em revisão.**
 
 **Tecnologias:** PHP, PDO, MySQL, JavaScript, HTML, CSS e Bootstrap.
 
