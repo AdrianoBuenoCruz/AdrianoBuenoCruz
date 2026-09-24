@@ -41,7 +41,7 @@ Sistema de gestão para uma empresa de energia fotovoltaica. Organiza o percurso
 | [🌱 Horta Municipal](https://github.com/AdrianoBuenoCruz/-Projeto-WEB-MOBILE-FIST) | Projeto acadêmico para gerenciar canteiros, cultivos e colheitas, com interface PWA. | HTML, CSS, JavaScript |
 | [📚 Biblioteca em Java](https://github.com/AdrianoBuenoCruz/Projeto-Java-Biblioteca-Judiciario-Educacional-) | Sistema bibliotecário desenvolvido como projeto educacional. | Java |
 
-## Tecnologias que utilizo
+## Tecnologias e ferramentas
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
