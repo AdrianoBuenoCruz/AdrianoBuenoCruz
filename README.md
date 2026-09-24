@@ -34,6 +34,7 @@ Esta seção acompanha automaticamente o último commit público do projeto, com
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
+| [MF Solar Gestão](https://github.com/AdrianoBuenoCruz/mf-solar-gestao) | Sistema concluído de gestão fotovoltaica, com propostas, clientes, OS, estoque e financeiro. Autoria e desenvolvimento: Adriano Bueno. | PHP, MySQL, JavaScript |
 | [Horta Municipal](https://github.com/AdrianoBuenoCruz/-Projeto-WEB-MOBILE-FIST) | Projeto acadêmico para organizar canteiros, cultivos e colheitas, com interface PWA. | HTML, CSS, JavaScript |
 | [Biblioteca em Java](https://github.com/AdrianoBuenoCruz/Projeto-Java-Biblioteca-Judiciario-Educacional-) | Sistema bibliotecário desenvolvido como projeto educacional. | Java |
 
