@@ -4,41 +4,44 @@
 
 ## Olá, eu sou o Adriano 👋
 
-Sou estudante de **Sistemas de Informação na Universidade Estadual de Goiás (UEG)** e desenvolvo sistemas web para organizar processos do dia a dia. Gosto de projetos que nascem de uma necessidade real e se tornam ferramentas úteis.
+Sou estudante de **Sistemas de Informação na Universidade Estadual de Goiás (UEG)** e desenvolvo sistemas web para resolver necessidades do dia a dia. Tenho interesse especial em gestão agrícola, organização de processos e ferramentas que possam ser usadas de verdade.
 
-Meu trabalho de conclusão de curso é o **Gestor Agro**, um sistema para acompanhar safras, produção, finanças, máquinas e equipe em uma propriedade rural.
+Aqui você encontra projetos acadêmicos e sistemas que desenvolvi em **PHP, MySQL, JavaScript e Java**.
 
-### 🌾 Projeto em destaque: Gestor Agro
+## Projetos em destaque
 
-O Gestor Agro reúne indicadores da propriedade em um painel e oferece módulos para acompanhar safras, produção, finanças, equipamentos e equipe. **A versão acadêmica do sistema está concluída; a documentação do TCC está em revisão.**
+### 🌾 Gestor Agro · versão acadêmica concluída
 
-**Tecnologias:** PHP, PDO, MySQL, JavaScript, HTML, CSS e Bootstrap.
+Sistema web de gestão agrícola desenvolvido como meu trabalho de conclusão de curso. Reúne **safras, produção, finanças, equipamentos, operações e equipe** em uma aplicação para acompanhar a propriedade rural.
 
-[**Conhecer o projeto e ver como executar →**](https://github.com/AdrianoBuenoCruz/gestao-agro#executar-localmente)
+A versão acadêmica do sistema está concluída; a documentação do TCC está em revisão.
+
+**PHP · PDO · MySQL · JavaScript · Bootstrap**
+
+[**Explorar o Gestor Agro e ver como executar →**](https://github.com/AdrianoBuenoCruz/gestao-agro#executar-localmente)
 
 <p align="center">
   <a href="https://github.com/AdrianoBuenoCruz/gestao-agro">
-    <img src="https://raw.githubusercontent.com/AdrianoBuenoCruz/gestao-agro/main/PainelGeral.png" alt="Visão do painel do Gestor Agro" width="420">
+    <img src="https://raw.githubusercontent.com/AdrianoBuenoCruz/gestao-agro/main/PainelGeral.png" alt="Painel geral do sistema Gestor Agro" width="720">
   </a>
 </p>
 
-### Atualização recente do Gestor Agro
+### ☀️ MF Solar Gestão · concluído
 
-Esta seção acompanha automaticamente o último commit público do projeto, com atualização semanal.
+Sistema de gestão para uma empresa de energia fotovoltaica. Organiza o percurso **do cadastro do cliente e da proposta comercial à ordem de serviço**, com controle de estoque, financeiro, ponto e relatórios.
 
-<!-- projetos:auto:start -->
-- 23/09/2026 · [Gestor Agro](https://github.com/AdrianoBuenoCruz/gestao-agro/commit/17d33383a5e32db376ec8c62ed9db5451f5be912) — docs: detalha instalação e acesso inicial do Gestor Agro
-<!-- projetos:auto:end -->
+**Autoria e desenvolvimento: Adriano Bueno** · PHP · MySQL · JavaScript
+
+[**Explorar o MF Solar Gestão e ver as funcionalidades →**](https://github.com/AdrianoBuenoCruz/mf-solar-gestao)
 
 ### Outros projetos
 
-| Projeto | Descrição | Tecnologias |
+| Projeto | O que faz | Tecnologias |
 | --- | --- | --- |
-| [MF Solar Gestão](https://github.com/AdrianoBuenoCruz/mf-solar-gestao) | Sistema concluído de gestão fotovoltaica, com propostas, clientes, OS, estoque e financeiro. Autoria e desenvolvimento: Adriano Bueno. | PHP, MySQL, JavaScript |
-| [Horta Municipal](https://github.com/AdrianoBuenoCruz/-Projeto-WEB-MOBILE-FIST) | Projeto acadêmico para organizar canteiros, cultivos e colheitas, com interface PWA. | HTML, CSS, JavaScript |
-| [Biblioteca em Java](https://github.com/AdrianoBuenoCruz/Projeto-Java-Biblioteca-Judiciario-Educacional-) | Sistema bibliotecário desenvolvido como projeto educacional. | Java |
+| [🌱 Horta Municipal](https://github.com/AdrianoBuenoCruz/-Projeto-WEB-MOBILE-FIST) | Projeto acadêmico para gerenciar canteiros, cultivos e colheitas, com interface PWA. | HTML, CSS, JavaScript |
+| [📚 Biblioteca em Java](https://github.com/AdrianoBuenoCruz/Projeto-Java-Biblioteca-Judiciario-Educacional-) | Sistema bibliotecário desenvolvido como projeto educacional. | Java |
 
-### Tecnologias que utilizo
+## Tecnologias que utilizo
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -48,6 +51,16 @@ Esta seção acompanha automaticamente o último commit público do projeto, com
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
+## Novidades do Gestor Agro
+
+Esta seção é atualizada semanalmente com o último commit público do projeto.
+
+<!-- projetos:auto:start -->
+- 23/09/2026 · [Gestor Agro](https://github.com/AdrianoBuenoCruz/gestao-agro/commit/17d33383a5e32db376ec8c62ed9db5451f5be912) — docs: detalha instalação e acesso inicial do Gestor Agro
+<!-- projetos:auto:end -->
+
 ---
 
-<p align="center">Conheça os <a href="https://github.com/AdrianoBuenoCruz?tab=repositories">repositórios do meu perfil</a>.</p>
+<p align="center">
+  <a href="https://github.com/AdrianoBuenoCruz?tab=repositories"><strong>Conheça todos os meus repositórios →</strong></a>
+</p>
