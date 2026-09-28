@@ -56,7 +56,7 @@ Sistema de gestão para uma empresa de energia fotovoltaica. Organiza o percurso
 Esta seção é atualizada semanalmente com o último commit público do projeto.
 
 <!-- projetos:auto:start -->
-- 23/09/2026 · [Gestor Agro](https://github.com/AdrianoBuenoCruz/gestao-agro/commit/17d33383a5e32db376ec8c62ed9db5451f5be912) — docs: detalha instalação e acesso inicial do Gestor Agro
+- 24/09/2026 · [Gestor Agro](https://github.com/AdrianoBuenoCruz/gestao-agro/commit/a80efb2e10f9fb724233595229e905522d0371dc) — docs: marca versão acadêmica do Gestor Agro como concluída
 <!-- projetos:auto:end -->
 
 ---
