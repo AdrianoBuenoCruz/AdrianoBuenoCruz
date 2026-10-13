@@ -34,6 +34,12 @@ Sistema de gestão para uma empresa de energia fotovoltaica. Organiza o percurso
 
 [**Explorar o MF Solar Gestão e ver as funcionalidades →**](https://github.com/AdrianoBuenoCruz/mf-solar-gestao)
 
+### 🛠️ AssisTec SaaS · em desenvolvimento
+
+Plataforma SaaS para assistência técnica de computadores e celulares, desenvolvida em parceria com **Joaquim Chaveiro Neto** pela **Infotech Soluções em Sistemas**. Inclui ordens de serviço, clientes, estoque, financeiro, planos e administração de assinaturas.
+
+**PHP · PDO · MySQL · JavaScript** · Repositório privado durante o desenvolvimento.
+
 ### Outros projetos
 
 | Projeto | O que faz | Tecnologias |
